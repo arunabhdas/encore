@@ -27,6 +27,13 @@ to package.json under scripts
 
 ==> npm install ngx-electron --save
 
+==> npm install -g ionic cordova
+
+==> ionic build
+
+==> ionic serve
+
+== > 
 
 # Links
 
@@ -35,3 +42,5 @@ https://electronjs.org/docs/tutorial/first-app
 https://github.com/crisbeto/angular-svg-round-progressbar
 
 https://github.com/ThorstenHans/ngx-electron
+
+https://robferguson.org/blog/2017/11/09/build-a-desktop-application-with-ionic-3-and-electron/
