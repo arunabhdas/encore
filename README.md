@@ -1,7 +1,14 @@
 # encore
 
+## Steps
+==> npm install -g @angular/cli
 
-==> npm run electron-build
+==> ng new encore
+
+==> 
+
+## For dev
+==> npm run electron
 
 # Links
 
