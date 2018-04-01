@@ -5,6 +5,8 @@
 
 ==> ng new encore
 
+==> npm install electron --save-dev
+
 ==> 
 
 ## For dev
