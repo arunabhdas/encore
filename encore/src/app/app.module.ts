@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { NgxElectronModule } from 'ngx-electron';
 
 
 import { AppComponent } from './app.component';
@@ -15,7 +16,8 @@ import { RoundProgressModule } from 'angular-svg-round-progressbar';
   imports: [
     BrowserModule,
     FormsModule,
-    RoundProgressModule
+    RoundProgressModule,
+    NgxElectronModule
   ],
   providers: [],
   bootstrap: [AppComponent]
