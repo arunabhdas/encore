@@ -6,10 +6,9 @@ import { ElectronService } from 'ngx-electron';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  
   constructor(private _electronService: ElectronService) {}
 
-  launchWindow() {
+  launchWindow() 
     this._electronService.shell.openExternal('http://www.google.com');
   }
 }

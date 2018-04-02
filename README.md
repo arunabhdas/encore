@@ -23,7 +23,11 @@ Add
 to package.json under scripts
 
 ## For dev
+-----------------------------------------------
+-----------------------------------------------
 ==> npm run electron
+-----------------------------------------------
+-----------------------------------------------
 
 ==> npm install ngx-electron --save
 
@@ -33,7 +37,7 @@ to package.json under scripts
 
 ==> ionic serve
 
-== > 
+==> npm install --save ionic-angular ionicons 
 
 # Links
 
