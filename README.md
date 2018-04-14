@@ -1,5 +1,13 @@
 # encore
 
+## Versions
+
+==> npm -v
+5.8.0
+~/repos/ad/githubrepos/encore (master) 
+==> node -v
+v9.11.1
+
 ## Steps
 ==> npm install -g @angular/cli
 
